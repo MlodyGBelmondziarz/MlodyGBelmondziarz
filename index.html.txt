@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+	<html lang="pl">
+	<html>
+		<head>
+		<meta charset="utf-8">
+			<title>Hubert Barkowski 1P 1</title>
+		</head>
+	<body>
+<p align="left"> <font color="green" size="7" face="Arial"> Hubert </font> </p> <br>
+<p align="left"> <font color="green" size="6" face="Arial"> Hubert </font> </p> <br>
+<p align="left"> <font color="green" size="5" face="Arial"> Hubert </font> </p> <br>
+<p align="left"> <font color="green" size="4" face="Arial"> Hubert </font> </p> <br>
+<p align="left"> <font color="green" size="3" face="Arial"> Hubert </font> </p> <br>
+<p align="left"> <font color="green" size="2" face="Arial"> Hubert </font> </p> <br>
+<p align="left"> <font color="green" size="1" face="Arial"> Hubert </font> </p> <br>
+<h1> Barkowski </h1><br>
+<h2> Barkowski </h2><br>
+<h3> Barkowski </h3><br>
+<h4> Barkowski </h4><br>
+<h5> Barkowski </h5><br>
+<h6> Barkowski </h6><br>
+<p align="left"> <font color="purple" size="7" face="Verdana"> :( smutek, zmartwienie </font> </p> <br>
+<p align="left"> <font color="red" size="5" face="Verdana"> :C duży smutek </font> </p> <br>
+<p align="left"> <font color="green" size="6" face="Verdana"> ;( płacz </font> </p> <br>
+<p align="left"> <font color="yellow" size="3" face="Verdana"> :'( też płacz </font> </p> <br>
+<p align="left"> <font color="blue" size="4" face="Verdana"> :) uśmiech </font> </p> <br>
+<p align="left"> <font color="brown" size="2" face="Verdana"> :0 zaskoczenie </font> </p> <br>
+
+<p align="left"> Adres: <b>80-214</b>,<i>Gdańśk</i>,<u>Jana z Kolana</u>, <strike>13,32</strike> </p><br>
+<center> <p> <font color="red" size="7" face="Arial">Ulubiony aktor: </font> <br> </p> </center>
+<center> <p> <font color="green" size="5" face="Arial">Ulubiony zespół muzyczny: </font> <br> </p> </center>
+<center> <p> <font color="green" size="4" face="Courier New">Data urodzenia 20 kwietnia 1946: </font> <br> </p> </center>
+<p> <font color ="black"> H<sub>2</sub>SO<sub>4</sub>
+<p> x<sup>*</sup>x = x<sup>2</sup>
+<FIELDSET>
+	<LEGEND>Żart i lekarzu</LEGEND> Dentysta sadysta <br>
+- Panie doktorze czy ma pan coś na moje zęby?
+- Tak, woreczek
+<br>
+
+</FIELDSET>
+
+
+
+
+	</body>
+</html>
